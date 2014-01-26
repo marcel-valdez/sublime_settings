@@ -1,0 +1,6 @@
+{
+  /* 
+    Sets the path to the pandoc binary. Defaults to /usr/local/bin
+    */
+  "pandoc-path": "pandoc"
+}

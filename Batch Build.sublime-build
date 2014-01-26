@@ -1,0 +1,10 @@
+{
+    "cmd": [
+    // ej.: build.bat "c:/dir/file.txt"  "c:\dir" "file" ".txt"
+      "$file_path\\build.bat",
+      "$file", // %1      
+      "$file_path", // %2
+      "$file_base_name", // %3
+      "$file_extension" // %4
+      ]
+}

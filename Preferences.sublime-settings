@@ -1,0 +1,81 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/MonokaiMod.tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Dictionaries/Spanish.dic",
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"JavaScript Snippets",
+		"SublimeCodeIntel",
+		"DictionaryAutoComplete",
+		"Nodejs",
+		"Vintage",
+		"Require Node.js Modules Helper",
+		"Markdown Preview",
+		"CUDA C++",
+		"NodeEval",
+		"BeautifyRuby",
+		"Java Velocity"
+	],
+	"ignored_words":
+	[
+		"Conquer",
+		"Factorice",
+		"Heurística",
+		"Heurísticas",
+		"Kiwi",
+		"Mitigación",
+		"Reutilización",
+		"Subsistema",
+		"categoriza",
+		"constructos",
+		"contraparte",
+		"desarrollador",
+		"desarrolladores",
+		"encapsulamiento",
+		"fragmentación",
+		"hardware",
+		"heurística",
+		"heurísticas",
+		"holística",
+		"implementación",
+		"impráctico",
+		"interactúa",
+		"noitemsep",
+		"nolistsep",
+		"permutación",
+		"polimórfica",
+		"polimórfico",
+		"polimórficos",
+		"procedural",
+		"recursividad",
+		"recursivo",
+		"reintentarse",
+		"replicación",
+		"reusabilidad",
+		"reusable",
+		"reusables",
+		"reusar",
+		"reuso",
+		"reutilizable",
+		"reutilizables",
+		"reutilización",
+		"subproblemas"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": 80
+}

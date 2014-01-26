@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"ColorPicker",
+		"CompleteSharp",
+		"CUDA C++",
+		"Dictionaries",
+		"DictionaryAutoComplete",
+		"ExportHtml",
+		"FindKeyConflicts",
+		"Java Velocity",
+		"JavaScript and jQuery API Completions",
+		"JavaScript Refactor",
+		"JavaScript Snippets",
+		"JavaSetterGetter",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MSBuild",
+		"NodeEval",
+		"Nodejs",
+		"Package Control",
+		"Pandoc Academic",
+		"PowerShell",
+		"Pretty JSON",
+		"Require Node.js Modules Helper",
+		"Six - Future JavaScript Syntax",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"Terminal"
+	],
+	"repositories":
+	[
+	]
+}

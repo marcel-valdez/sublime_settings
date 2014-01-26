@@ -1,0 +1,18 @@
+{
+  "cmd": [
+    "pandoc.exe", 
+    "${file}", 
+    "-o", "${file_path}/${file_base_name}.pdf"
+  ],
+  "name":"Markdown to PDF",
+  "variants": [
+    { 
+      "cmd":[
+        "pandoc.exe",
+        "${file}",
+        "-o", "${file_path}/${file_base_name}.html"
+      ],
+      "name" : "Markdown to HTML"
+    }
+  ]
+}
